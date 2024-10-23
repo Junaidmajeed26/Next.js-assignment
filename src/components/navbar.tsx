@@ -16,7 +16,8 @@ export default function Navbar(){
 <img src="https://www.creativefabrica.com/wp-content/uploads/2023/01/31/Letter-J-and-JJ-Logo-Graphics-59541643-1-1-580x387.jpg" 
 alt="j logo" 
 className="w-20 h-18 rounded-full"/>
-<span className="ml-2 text-xl mr-5">Junaid</span></a>
+<span className="ml-2 text-xl mr-5">Junaid</span></a><image />
+
 
             <Link className="mr-5 hover:text-black" href="/">Home</Link>
             <Link className="mr-5 hover:text-black" href="about">About</Link>
